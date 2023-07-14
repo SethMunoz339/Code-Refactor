@@ -8,6 +8,9 @@
 
 The purpose of this assignment was to refactor code to simplify and consolidate the css.
 
+![code-refactor-screenshot](https://github.com/SethMunoz339/Code-Refactor/blob/main/assets/code-refactor-screenshot.png?raw=true)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
